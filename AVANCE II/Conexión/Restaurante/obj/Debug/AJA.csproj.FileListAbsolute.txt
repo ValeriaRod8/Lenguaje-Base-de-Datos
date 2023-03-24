@@ -1,0 +1,22 @@
+C:\Users\bryan\OneDrive\Desktop\ORACLE\RESTAURANTE\AJA\AJA\bin\Debug\AJA.exe.config
+C:\Users\bryan\OneDrive\Desktop\ORACLE\RESTAURANTE\AJA\AJA\bin\Debug\AJA.exe
+C:\Users\bryan\OneDrive\Desktop\ORACLE\RESTAURANTE\AJA\AJA\bin\Debug\AJA.pdb
+C:\Users\bryan\OneDrive\Desktop\ORACLE\RESTAURANTE\AJA\AJA\obj\Debug\AJA.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Desktop\ORACLE\RESTAURANTE\AJA\AJA\obj\Debug\AJA.csproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\OneDrive\Desktop\ORACLE\RESTAURANTE\AJA\AJA\obj\Debug\AJA.Properties.Resources.resources
+C:\Users\bryan\OneDrive\Desktop\ORACLE\RESTAURANTE\AJA\AJA\obj\Debug\AJA.csproj.GenerateResource.cache
+C:\Users\bryan\OneDrive\Desktop\ORACLE\RESTAURANTE\AJA\AJA\obj\Debug\AJA.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Desktop\ORACLE\RESTAURANTE\AJA\AJA\obj\Debug\AJA.exe
+C:\Users\bryan\OneDrive\Desktop\ORACLE\RESTAURANTE\AJA\AJA\obj\Debug\AJA.pdb
+C:\Users\bryan\OneDrive\Desktop\ORACLE\RESTAURANTE\AJA\AJA\obj\Debug\AJA.Clientes.resources
+C:\Users\bryan\OneDrive\Desktop\AVANCE II\AJA\AJA\bin\Debug\AJA.exe.config
+C:\Users\bryan\OneDrive\Desktop\AVANCE II\AJA\AJA\bin\Debug\AJA.exe
+C:\Users\bryan\OneDrive\Desktop\AVANCE II\AJA\AJA\bin\Debug\AJA.pdb
+C:\Users\bryan\OneDrive\Desktop\AVANCE II\AJA\AJA\obj\Debug\AJA.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Desktop\AVANCE II\AJA\AJA\obj\Debug\AJA.csproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\OneDrive\Desktop\AVANCE II\AJA\AJA\obj\Debug\AJA.Clientes.resources
+C:\Users\bryan\OneDrive\Desktop\AVANCE II\AJA\AJA\obj\Debug\AJA.Properties.Resources.resources
+C:\Users\bryan\OneDrive\Desktop\AVANCE II\AJA\AJA\obj\Debug\AJA.csproj.GenerateResource.cache
+C:\Users\bryan\OneDrive\Desktop\AVANCE II\AJA\AJA\obj\Debug\AJA.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Desktop\AVANCE II\AJA\AJA\obj\Debug\AJA.exe
+C:\Users\bryan\OneDrive\Desktop\AVANCE II\AJA\AJA\obj\Debug\AJA.pdb
